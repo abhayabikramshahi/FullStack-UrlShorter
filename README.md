@@ -28,5 +28,7 @@ ClipLink is a **simple, modern, and responsive** URL shortening web application.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cliplink.git
-cd cliplink
+git clone https://github.com/abhayabikramshahi/FullStack-UrlShorter
+cd FullStack-UrlShorter
+npm install
+npm run dev
